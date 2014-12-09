@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion
+END
+ConstantAcceleration.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion/ConstantAcceleration.java
+END
+Trajectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion/Trajectory.java
+END
+ConstantVelocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion/ConstantVelocity.java
+END
+Stationary.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion/Stationary.java
+END
+PieceMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse131_sp12/svn/Wang-418999/!svn/ver/44/src/game/motion/PieceMover.java
+END
